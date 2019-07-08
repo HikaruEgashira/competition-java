@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "vscjava.vscode-java-pack",
+    "visualstudioexptteam.vscodeintellicode"
+  ],
+  "unwantedRecommendations": ["ms-vscode.cpptools"]
+}
